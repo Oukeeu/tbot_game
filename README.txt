@@ -1,3 +1,5 @@
+# Telegram bot developed on python to play the game "Mafia"
+
 This telegram bot was developed for the purpose of a student project, as a project work of a first year student at St. Petersburg University.
 The bot is an application for playing mafia in chats and publishers of all sizes.
 Here is part of the code, as my task as a developer was to do only half of the logic:
